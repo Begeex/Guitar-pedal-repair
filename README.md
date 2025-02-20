@@ -34,7 +34,7 @@ Replaced potentiometer
 ![Xvive Undulator](Pictures/IMG_20240903_155004.jpg)
 ![Xvive Undulator pcb top](Pictures/IMG_20240616_142952.jpg)
 ![Xvive Undulator pcb bottom](Pictures/IMG_20240616_143008.jpg)
-![Xvive Undulator fault](Pictures/IMG_20240616_143008.jpg)
+![Xvive Undulator fault](Pictures/IMG_20240616_144516.jpg)
 #### Problem:
 
 No signal
